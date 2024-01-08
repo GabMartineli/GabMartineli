@@ -1,6 +1,6 @@
  <b> Oi! Meu nome é Gabriel Martineli, estou começando e estudando a área de programação! </b> 
 
-![GabMartineli GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&theme=dark&show.icons=true)
+![GabMartineli GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&theme=vision-friendly-dark&show.icons=true)
 
 
 
