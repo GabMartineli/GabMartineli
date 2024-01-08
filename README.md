@@ -1,4 +1,4 @@
-## <h3> Oi! Meu nome é Gabriel Martineli, estou começando e estudando a área de programação! <h3> 
+## <h3> Oi! Meu nome é Gabriel Martineli, estou começando e estudando a área de programação! </h3> 
 
 ![GabMartineli GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&theme=midnight-purple&show.icons=true)
 
