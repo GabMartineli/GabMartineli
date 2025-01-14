@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&pause=0000&color=C865FF&background=80808000&random=false&width=435&lines=Oi!+;Meu+nome+%C3%A9+Gabriel+Martineli+;estou+come%C3%A7ando+na+%C3%A1rea+de+programa%C3%A7%C3%A3o!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&pause=0000&color=C865FF&background=80808000&random=false&width=435&lines=Olá!+;Meu+nome+%C3%A9+Gabriel+Martineli+;Sou+um+dev+front-end.+" alt="Typing SVG" /></a>
  
 
 ![GabMartineli GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&theme=midnight-purple&show.icons=true)
