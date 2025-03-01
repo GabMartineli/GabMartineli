@@ -9,13 +9,13 @@ Sou um dev front-end, apaixonado por tecnologia desde criança. Atualmente estou
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode&theme=dark&perline=3)](https://skillicons.dev)
 <br> </br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabMartineli&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true) 
 
 ## 📈 Status:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
 <br> </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amandytta&theme=material-palenight&show_icons=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabMartineli&theme=material-palenight&show_icons=true)](https://git.io/streak-stats)
 
 ## 📫 Contatos
 Você pode me encontrar nos seguintes contatos:
