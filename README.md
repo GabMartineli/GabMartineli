@@ -1,19 +1,32 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&pause=0000&color=C865FF&background=80808000&random=false&width=435&lines=Olá!+;Meu+nome+%C3%A9+Gabriel+Martineli+;Sou+um+dev+front-end.+" alt="Typing SVG" /></a>
- 
+<div align="center">
 
-![GabMartineli GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&theme=midnight-purple&show.icons=true)
+# Oló👋, Meu nome é Gabriel!
 
+Sou um dev front-end, apaixonado por tecnologia desde criança. Atualmente estou cursando ADS na faculdade Uninter, e estou procurando a minha primeira oportunidade para trabalhar na área de dev. Sempre estou disposto a aprender coisas novas e melhorar minhas habilidades para ser um profissional cada vez melhor.
+<br>
 
+## 👾 Habilidades:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode&theme=dark&perline=3)](https://skillicons.dev)
+<br> </br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true) 
+
+## 📈 Status:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
+<br> </br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amandytta&theme=material-palenight&show_icons=true)](https://git.io/streak-stats)
+
+## 📫 Contatos
+Você pode me encontrar nos seguintes contatos:
+
+ <div> 
+  <a href="https://www.linkedin.com/in/gabrielmartineli" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: gabrielmartineli88@Gmail.com" target="_blank"><img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/@gabzz1/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:gabrielmartineli88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
+ <br>
+ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
 </div>
