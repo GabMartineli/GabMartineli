@@ -9,7 +9,8 @@ Sou um dev front-end, apaixonado por tecnologia desde criança. Atualmente estou
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode&theme=dark&perline=3)](https://skillicons.dev)
 <br> </br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabMartineli&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabMartineli&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
+
 
 ## 📈 Status:
 
