@@ -13,7 +13,7 @@ Sou um dev front-end, apaixonado por tecnologia desde criança. Atualmente estou
 
 ## 📈 Status:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
+![Gab GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
 <br> </br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabMartineli&theme=material-palenight&show_icons=true)](https://git.io/streak-stats)
 
