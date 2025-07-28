@@ -16,7 +16,6 @@ Sou um dev front-end, apaixonado por tecnologia desde criança. Atualmente estou
 
 ![Gab GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
 <br> </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabMartineli&theme=material-palenight&show_icons=true)](https://git.io/streak-stats)
 
 ## 📫 Contatos
 Você pode me encontrar nos seguintes contatos:
