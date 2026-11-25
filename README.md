@@ -1,33 +1,34 @@
-<div align="center">
+# Olá, eu sou o Gabriel Martineli 👋
 
-# Olá👋, Meu nome é Gabriel!
+Desenvolvedor de software **Full-Stack**, cursando **Análise e Desenvolvimento de Sistemas (Uninter)** em São Paulo.
 
-Sou um dev front-end, apaixonado por tecnologia desde criança. Atualmente estou cursando ADS na faculdade Uninter, e estou procurando a minha primeira oportunidade para trabalhar na área de dev. Sempre estou disposto a aprender coisas novas e melhorar minhas habilidades para ser um profissional cada vez melhor.
-<br>
+Construo aplicações web **Offline-First** com **React, TypeScript e Supabase**, APIs REST robustas com **NestJS e Prisma**, além de utilitários desktop em **C# / .NET** integrados a **SQL Server**.
 
-## 👾 Habilidades:
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode,typescript,react,tailwindcss,python&theme=dark&perline=4)](https://skillicons.dev)
-<br> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabMartineli&layout=compact&langs_count=10&count_private=true&theme=material-palenight&showicons=true)
+### 🛠️ Tecnologias
 
+**Back-End & Banco de Dados**
 
-## 📈 Status:
+[![Back-End](https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma,cs,dotnet,supabase,postgres&theme=dark)](https://skillicons.dev)
 
-![Gab GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMartineli&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
-<br> </br>
+**Front-End & Ferramentas**
 
-## 📫 Contatos
-Você pode me encontrar nos seguintes contatos:
+[![Front-End](https://skillicons.dev/icons?i=react,vite,tailwind,js,jest,postman,git,vercel&theme=dark)](https://skillicons.dev)
 
- <div> 
-  
-  <a href="https://www.linkedin.com/in/gabrielmartineli" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto: gabrielmartineli88@Gmail.com" target="_blank"><img src="https://img.shields.io/badge/-email-%23E4405F?style=for-the-badge&logo=email&logoColor=white"></a>
-  <a href="https://discord.com/users/@gabzz1/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+---
 
- </div>
+### 🚀 Projetos em Destaque
 
- <br>
- Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
-</div>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**Kronos Trade**](https://kronostrade.vercel.app/) *(App ao vivo)* | Terminal profissional de gestão de banca e *trading journal* **PWA Offline-First** com sincronização em nuvem (Supabase RLS), registro 1-clique (Manual/Robô), controle de aportes/saques, gráficos TradingView e dashboard de KPIs (Drawdown, Payoff, Fator de Lucro). | `React` `TypeScript` `Vite` `Tailwind` `Supabase` |
+| [**Raízes do Nordeste API**](https://github.com/GabMartineli/Raizes-do-Nordeste) | API multicanal para gestão de filiais, cardápios, estoque e fluxo de pedidos com autenticação JWT, RBAC, documentação Swagger e testes automatizados (unitários e e2e). | `TypeScript` `NestJS` `Prisma` `Jest` |
+| [**Atualizador Sele**](https://github.com/GabMartineli/Atualizador-Sele) | Ferramenta desktop para automação de atualizações de sistemas com extração/cópia de arquivos e execução de scripts no SQL Server. | `C#` `.NET` `WinForms` `SQL Server` |
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmartineli)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmartineli88@gmail.com)
